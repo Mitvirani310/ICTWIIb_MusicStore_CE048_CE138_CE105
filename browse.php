@@ -145,6 +145,7 @@ button:focus {
     font-size: 17px;
     font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease;
+    color:black;
 }
 
 .contact .right form .field input:focus,
