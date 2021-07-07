@@ -25,6 +25,6 @@ Languages/Skills used:
 8. JSON
 
 
-Developed by :- CE048 - Namra Joshi,
-                CE138 - Mit Virani,
+Developed by :- CE048 - Namra Joshi, 
+                CE138 - Mit Virani, 
                 CE105 - Jay Savani
